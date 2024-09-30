@@ -1,4 +1,4 @@
-# Blog-App
+# WriteAway-Blog-App
 
 This application is built using the MERN (MongoDB, Express, React, Node.js) stack and comes with various functionalities to manage and share your blogs.
 
